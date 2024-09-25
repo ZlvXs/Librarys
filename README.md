@@ -1,4 +1,4 @@
-# Hi, here i will post Libs that i Modified (you can ask me a custom Modified Lib if u dont know how do it, my Discord is zpzlvv), but anyways, i will show you how it looks.
+# Hi, here i will post Libs that i Modified (you can ask me a custom Modified Lib if u dont know how do it, my Discord is getxyzz), but anyways, i will show you how it looks.
 
 ## First Library, Dirt UI
 
